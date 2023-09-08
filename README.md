@@ -122,9 +122,7 @@ FAILED_RDP_WITH_GEO_CL | extend username = extract(@"username:([^,]+)", 1, RawDa
 | summarize event_count=count() by latitude, longitude, sourcehost, label, destination, country 
 ```
 4. Run the Query!
-5. You can continue refreshing the map to display more failed RDP attacks. Here
-   the honey pot has only been running for a couple of hours and I already have
-   over 1,12k hits from the Philippines!
+5. You can continue refreshing the map to display more failed RDP attacks. Here the honey pot has was ran over night.
 ![Alt text](images/map.png)
 
 ## Wrapping up
