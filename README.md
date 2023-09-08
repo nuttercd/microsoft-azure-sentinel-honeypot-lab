@@ -1,4 +1,4 @@
-# Azure Sentinel Honeypot | Attack Map
+# Microsoft Azure Sentinel Honeypot | Attack Map
 
 Credit goes to Josh Madakor for this lab! You can find his video [here](https://www.youtube.com/watch?v=RoZeVbbZ0o0&list=PL_MvTIq1Tl-X04__sDhuQ89qo-g72DaBt&index=3).
 
